@@ -4,8 +4,8 @@ const fs = require("fs");
 const uuid = require("uuid");
 const moment = require("moment");
 
-const token = "YOUR_BOT_TOKEN";
-const adminID = "YOUR_CHAT_ID";
+const token = "6544073179:AAEPaXvwHwa1qB-48nbdQGYbb8wIR0CoH80";
+const adminID = "5247701161";
 
 const bot = new TelegramBot(token, { polling: true });
 
